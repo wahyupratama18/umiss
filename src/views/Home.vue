@@ -27,9 +27,9 @@ const changeTab = (scheme, i) => {
                 </a>
             </div>
 
-            <div class="w-full flex justify-end">
+            <div class="w-full grid grid-cols-1 gap-6 justify-items-center">
                 <img class="max-h-96" src="../assets/poster.jpg" alt="UM ISS Poster">
-                <!-- <iframe class="rounded-lg aspect-video max-h-96" src="https://www.youtube.com/embed/3VKjZtZCT60" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen /> -->
+                <iframe class="rounded-lg aspect-video max-h-96" src="https://www.youtube.com/embed/oEK5DycinZg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen width="100%" />
             </div>
         </section>
 
